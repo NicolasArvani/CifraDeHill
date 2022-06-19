@@ -23,7 +23,7 @@ float** inversaMatrixHill(float** matrix_original, int N);
 
 int main(void) {
 
-  setlocale(LC_ALL, "pt-br");
+  setlocale(LC_ALL, "");
   
   
 
